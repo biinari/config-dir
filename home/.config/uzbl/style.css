@@ -31,4 +31,14 @@
   color: white !important;
 }
 
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    background: black;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #999;
+}
+
 /* vim:set et ts=4: */
