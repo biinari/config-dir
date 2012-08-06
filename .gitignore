@@ -1,1 +1,4 @@
 aurvote
+
+# KeePassX stores last file used etc
+keepassx/config.ini
