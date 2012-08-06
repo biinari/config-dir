@@ -30,6 +30,9 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
+      <property name="XF86AudioLowerVolume" type="string" value="amixer set Master 2%- unmute"/>
+      <property name="XF86AudioRaiseVolume" type="string" value="amixer set Master 2%+ unmute"/>
+      <property name="XF86AudioMute" type="string" value="sound_toggle.sh"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
     </property>
   </property>
@@ -115,6 +118,7 @@
       <property name="&lt;Alt&gt;&lt;Control&gt;KP_1" type="string" value="move_window_workspace_1_key"/>
       <property name="&lt;Alt&gt;&lt;Control&gt;KP_2" type="string" value="move_window_workspace_2_key"/>
       <property name="&lt;Alt&gt;&lt;Control&gt;KP_3" type="string" value="move_window_workspace_3_key"/>
+      <property name="&lt;Alt&gt;&lt;Control&gt;KP_4" type="string" value="move_window_workspace_4_key"/>
       <property name="&lt;Alt&gt;&lt;Control&gt;KP_5" type="string" value="move_window_workspace_5_key"/>
       <property name="&lt;Alt&gt;&lt;Control&gt;KP_6" type="string" value="move_window_workspace_6_key"/>
       <property name="Down" type="string" value="down_key"/>
