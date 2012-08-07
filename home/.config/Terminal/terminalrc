@@ -19,4 +19,9 @@ MiscHighlightUrls=TRUE
 ColorBackground=#111111111111
 TitleMode=TERMINAL_TITLE_REPLACE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
+ColorPalette5=#11111111aaaa
+ColorPalette2=#aaaa11111111
+ColorPalette6=#aaaa1111aaaa
+ColorPalette7=#1111aaaaaaaa
+ColorPalette4=#aaaa55551111
 
