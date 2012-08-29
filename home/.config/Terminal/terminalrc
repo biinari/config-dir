@@ -16,12 +16,13 @@ MiscTabCloseButtons=TRUE
 MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
-ColorBackground=#111111111111
 TitleMode=TERMINAL_TITLE_REPLACE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-ColorPalette5=#11111111aaaa
-ColorPalette2=#aaaa11111111
+ColorPalette5=#44444444ffff
+ColorPalette2=#eeee44444444
 ColorPalette6=#aaaa1111aaaa
 ColorPalette7=#1111aaaaaaaa
 ColorPalette4=#aaaa55551111
+ColorBackground=#111111111111
+ColorPalette13=#66666666ffff
 
