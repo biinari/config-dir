@@ -1,6 +1,16 @@
-aurvote
+# contains credentials
+/home/.config/aurvote
 
 # KeePassX stores last file used etc
-keepassx
+/home/.config/keepassx/
+
+# Chromium has locks
+/home/.config/chromium/
+
+# Different computers want different autostarts
+/home/.config/autostart/
+
+# dconf is binary
+/home/.config/dconf/
 
 Trolltech.conf
