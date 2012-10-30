@@ -34,6 +34,7 @@
       <property name="XF86AudioMute" type="string" value="sound_toggle.sh"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xscreensaver-command -lock"/>
+      <property name="Print" type="string" value="scrot -d 2 /home/bill/Pictures/%Y-%m-%d-%H%M%S-screenshot.png"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="gvim"/>
     </property>
   </property>
