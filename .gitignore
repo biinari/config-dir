@@ -26,4 +26,7 @@ home/.config/inkscape/extension-errors.log
 home/.config/xfce4/desktop/
 home/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml
 
+# Hub (token)
+home/.config/hub
+
 Trolltech.conf
