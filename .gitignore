@@ -29,4 +29,7 @@ home/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml
 # Hub (token)
 home/.config/hub
 
+# Skype
+home/.config/Skype
+
 Trolltech.conf
