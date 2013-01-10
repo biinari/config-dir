@@ -1,4 +1,11 @@
 [Configuration]
+ColorPalette2=#eeee00000000
+ColorPalette4=#aaaa55551111
+ColorPalette5=#44444444ffff
+ColorPalette6=#cccc3333cccc
+ColorPalette7=#1111aaaaaaaa
+ColorPalette13=#66666666ffff
+ColorBackground=#111111111111
 FontName=Monospace 9
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
@@ -9,20 +16,13 @@ MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=FALSE
 MiscMouseAutohide=FALSE
-MiscToolbarsDefault=FALSE
+MiscToolbarDefault=FALSE
 MiscConfirmClose=TRUE
 MiscCycleTabs=TRUE
 MiscTabCloseButtons=TRUE
 MiscTabCloseMiddleClick=TRUE
 MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
-TitleMode=TERMINAL_TITLE_REPLACE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
-ColorPalette2=#eeee00000000
-ColorPalette4=#aaaa55551111
-ColorPalette5=#44444444ffff
-ColorPalette6=#cccc3333cccc
-ColorPalette7=#1111aaaaaaaa
-ColorPalette13=#66666666ffff
-ColorBackground=#111111111111
+TitleMode=TERMINAL_TITLE_REPLACE
 
