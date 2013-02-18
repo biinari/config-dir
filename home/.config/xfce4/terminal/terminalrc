@@ -1,10 +1,4 @@
 [Configuration]
-ColorPalette2=#eeee00000000
-ColorPalette4=#aaaa55551111
-ColorPalette5=#44444444ffff
-ColorPalette6=#cccc3333cccc
-ColorPalette7=#1111aaaaaaaa
-ColorPalette13=#66666666ffff
 ColorBackground=#111111111111
 FontName=Monospace 9
 MiscAlwaysShowTabs=FALSE
@@ -25,4 +19,5 @@ MiscTabPosition=GTK_POS_TOP
 MiscHighlightUrls=TRUE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
 TitleMode=TERMINAL_TITLE_REPLACE
+ColorPalette=#000000000000;#eeee00000000;#0000aaaa0000;#aaaa55551111;#44444444ffff;#cccc3333cccc;#1111aaaaaaaa;#aaaaaaaaaaaa;#555555555555;#ffff55555555;#5555ffff5555;#ffffffff5555;#66666666ffff;#ffff5555ffff;#5555ffffffff;#ffffffffffff
 
