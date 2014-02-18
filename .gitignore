@@ -25,6 +25,8 @@ home/.config/inkscape/extension-errors.log
 # Xfce4
 home/.config/xfce4/desktop/
 home/.config/xfce4/xfconf/xfce-perchannel-xml/pointers.xml
+home/.config/xfce4/accels.scm
+home/.config/xfce4-screenshooter
 
 # Hub (token)
 home/.config/hub
@@ -32,4 +34,18 @@ home/.config/hub
 # Skype
 home/.config/Skype
 
+# Ristretto
+home/.config/ristretto/
+
 Trolltech.conf
+
+home/.config/Mumble/
+
+home/.config/fontconfig/fonts.conf
+
+home/.config/Google/
+
+home/.config/blueman/
+
+*.log
+*.pem
