@@ -28,7 +28,6 @@
       <property name="XF86WWW" type="string" value="exo-open --launch WebBrowser"/>
       <property name="&lt;Super&gt;p" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
-      <property name="&lt;Control&gt;&lt;Alt&gt;g" type="string" value="chromium"/>
       <property name="&lt;Control&gt;&lt;Alt&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
       <property name="XF86AudioLowerVolume" type="string" value="amixer set Master 2%- unmute"/>
       <property name="XF86AudioRaiseVolume" type="string" value="amixer set Master 2%+ unmute"/>
@@ -37,6 +36,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xscreensaver-command -lock"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="gvim"/>
       <property name="Print" type="string" value="xfce4-screenshooter"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="google-chrome"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
