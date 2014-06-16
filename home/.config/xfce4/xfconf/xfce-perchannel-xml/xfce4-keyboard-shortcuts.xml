@@ -37,6 +37,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;v" type="string" value="gvim"/>
       <property name="Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="google-chrome"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;F9" type="string" value="sudo stop_elasticsearch"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
