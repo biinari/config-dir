@@ -1,3 +1,4 @@
-WebBrowser=chromium
 TerminalEmulator=xfce4-terminal
+FileManager=Thunar
+WebBrowser=custom-WebBrowser
 
