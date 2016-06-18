@@ -1,6 +1,5 @@
 [Configuration]
 ColorBackground=#111111111111
-FontName=Monospace 9
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBordersDefault=TRUE
@@ -21,4 +20,5 @@ TitleMode=TERMINAL_TITLE_REPLACE
 ColorPalette=#000000000000;#eeee00000000;#0000aaaa0000;#aaaa55551111;#44444444ffff;#cccc3333cccc;#1111aaaaaaaa;#aaaaaaaaaaaa;#555555555555;#ffff55555555;#5555ffff5555;#ffffffff5555;#66666666ffff;#ffff5555ffff;#5555ffffffff;#ffffffffffff
 ScrollingLines=10000
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
+FontName=Monospace 9
 
