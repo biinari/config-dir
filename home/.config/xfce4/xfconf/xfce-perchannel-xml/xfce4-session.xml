@@ -25,5 +25,10 @@
   </property>
   <property name="splash" type="empty">
     <property name="Engine" type="string" value="mice"/>
+    <property name="engines" type="empty">
+      <property name="balou" type="empty">
+        <property name="Theme" type="string" value="Default"/>
+      </property>
+    </property>
   </property>
 </channel>
