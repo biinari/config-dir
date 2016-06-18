@@ -1,0 +1,17 @@
+[settings]
+default-charset=UTF-8
+enable-developer-extras=true
+enable-site-specific-quirks=true
+zoom-text-and-images=true
+last-window-width=803
+last-window-height=451
+location-entry-search=https://duckduckgo.com/?q=%s
+toolbar-items=TabNew,Back,NextForward,ReloadStop,BookmarkAdd,Location,Search,Trash,CompactMenu
+open-tabs-in-the-background=false
+homepage=http://archlinux.org
+tabhome=about:dial
+download-folder=/home/bill/Downloads
+text-editor=gvim -f %F
+load-on-startup=MIDORI_STARTUP_HOMEPAGE
+preferred-encoding=MIDORI_ENCODING_UNICODE
+user-agent=Mozilla/5.0 (X11; Linux) AppleWebKit/537.32 (KHTML, like Gecko) Chrome/18.0.1025.133 Safari/537.32 Midori/0.5
