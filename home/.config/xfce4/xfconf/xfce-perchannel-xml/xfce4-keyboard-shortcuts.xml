@@ -41,7 +41,14 @@
       <property name="Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;g" type="string" value="google-chrome"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;F9" type="string" value="sudo stop_fatsoma"/>
+      <property name="XF86AudioNext" type="string" value="quodlibet --next"/>
+      <property name="XF86AudioPrev" type="string" value="quodlibet --previous"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;F9" type="string" value="sudo stop_fatsoma_dbs"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;q" type="string" value="quodlibet"/>
+      <property name="&lt;Super&gt;F12" type="string" value="quodlibet --next"/>
+      <property name="&lt;Super&gt;F11" type="string" value="quodlibet --previous"/>
+      <property name="&lt;Super&gt;F9" type="string" value="quodlibet --play-pause"/>
+      <property name="&lt;Super&gt;F10" type="string" value="quodlibet --stop"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
