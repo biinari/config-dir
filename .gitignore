@@ -4,8 +4,10 @@
 # KeePassX stores last file used etc
 /home/.config/keepassx/
 
-# Chromium has locks
+# Chromium / Google Chrome has locks
 /home/.config/chromium/
+/home/.config/google-chrome/
+/home/.config/google-chrome-35/
 
 # Different computers want different autostarts
 /home/.config/autostart/
