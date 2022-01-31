@@ -45,14 +45,14 @@ cups-StpQuality=Standard
 cups-StpFineMagentaGamma=None
 cups-StpCyanGamma=None
 cups-job-sheets=none,none
-printer=EPSON-Stylus-SX400
+printer=Canon_MB5400_series
 cups-StpHGray3Scale=None
 cups-StpHGray5Value=None
 cups-StpFineHGray3Value=None
 cups-StpFineDropSize3=None
 cups-StpHGray3Trans=None
 cups-StpFineHGray1Scale=None
-cups-MediaType=Plain
+cups-MediaType=Stationery
 cups-StpFineInkLimit=None
 cups-StpFineYellowGamma=None
 cups-StpFineBrightness=None
@@ -84,7 +84,7 @@ cups-StpFineCyanBalance=None
 cups-Resolution=361x360dpi
 cups-StpHGray5Scale=None
 cups-StpGCRLower=None
-media-type=Plain
+media-type=Stationery
 resolution-x=361
 resolution-y=360
 cups-StpFineCyanGamma=None
@@ -110,6 +110,13 @@ cups-StpFineBlackDensity=None
 cups-StpDropSize3=None
 cups-StpFineHGray3Trans=None
 
+
+default-source=Tray1
+duplex=horizontal
+cups-InputSlot=Tray1
+cups-print-scaling=auto
+cups-Duplex=DuplexNoTumble
+cups-cupsPrintQuality=Normal
 
 [Page Setup]
 PPDName=A4
